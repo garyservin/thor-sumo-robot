@@ -1,0 +1,20 @@
+#
+# Generated - do not edit!
+#
+# NOCDDL
+#
+CND_BASEDIR=`pwd`
+# 18F4550 configuration
+CND_ARTIFACT_DIR_18F4550=dist/18F4550/production
+CND_ARTIFACT_NAME_18F4550=Thor.X.production.hex
+CND_ARTIFACT_PATH_18F4550=dist/18F4550/production/Thor.X.production.hex
+CND_PACKAGE_DIR_18F4550=${CND_DISTDIR}/18F4550/package
+CND_PACKAGE_NAME_18F4550=thor.x.tar
+CND_PACKAGE_PATH_18F4550=${CND_DISTDIR}/18F4550/package/thor.x.tar
+# 16F1937 configuration
+CND_ARTIFACT_DIR_16F1937=dist/16F1937/production
+CND_ARTIFACT_NAME_16F1937=Thor.X.production.hex
+CND_ARTIFACT_PATH_16F1937=dist/16F1937/production/Thor.X.production.hex
+CND_PACKAGE_DIR_16F1937=${CND_DISTDIR}/16F1937/package
+CND_PACKAGE_NAME_16F1937=thor.x.tar
+CND_PACKAGE_PATH_16F1937=${CND_DISTDIR}/16F1937/package/thor.x.tar

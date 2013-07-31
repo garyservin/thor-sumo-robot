@@ -1,0 +1,1 @@
+ dist/16F1937/production/doprnt.d  dist/16F1937/production/doprnt.p1:  /opt/microchip/xc8/v1.12/sources/doprnt.c

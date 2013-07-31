@@ -1,0 +1,20 @@
+__stringtab: STRING, 1377 0 1
+__stringdata: STRING, 1388 0 101
+_putch: CODE, 1879 0 12
+_IRS: CODE, 4 0 7
+_sumo_move: CODE, 1244 0 133
+_dpowers: STRING, 1378 0 10
+_main: CODE, 13 0 356
+_init_sumo: CODE, 1064 0 180
+__initialization: CODE, 1812 0 18
+___lwdiv: CODE, 1574 0 69
+_ReadADC: CODE, 1705 0 42
+_isdigit: CODE, 1833 0 20
+_printf: CODE, 369 0 356
+___lwmod: CODE, 1643 0 62
+_get_sensors: CODE, 725 0 339
+_delay_ms: CODE, 1783 0 29
+_OpenADC: CODE, 1866 0 13
+___wmul: CODE, 1747 0 36
+_delay_s: CODE, 1489 0 85
+Total: 1869
