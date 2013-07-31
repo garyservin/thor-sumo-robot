@@ -1,0 +1,22 @@
+## GIT IGNORE FILE
+
+*.hex
+*.o
+*.err
+*.cof
+*.lst
+*.map
+*.cod
+*~
+
+# Compilacion y linkeado
+Thor.X/build
+Thor.X/dist
+Thor.X/*.i
+
+#Makefiles autogenerados
+Thor.X/nbproject/Makefile-default.mk
+Thor.X/nbproject/Makefile-genesis.properties
+Thor.X/nbproject/Makefile-impl.mk
+Thor.X/nbproject/Makefile-variables.mk
+Thor.X/nbproject/Makefile-local-default.mk
